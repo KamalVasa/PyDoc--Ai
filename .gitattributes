@@ -1,2 +1,7 @@
-frontend/** linguist-vendored
-*.json linguist-vendored
+frontend/** linguist-vendored=true
+frontend/** linguist-generated=true
+frontend/** linguist-detectable=false
+*.js linguist-detectable=false
+*.jsx linguist-detectable=false
+*.css linguist-detectable=false
+*.json linguist-detectable=false
